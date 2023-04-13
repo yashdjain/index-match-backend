@@ -1,9 +1,9 @@
 {
   "name": "index-match-backend",
   "version": "0.0.0",
-  "private": false,
+  "main": "server.js",
   "engines": {
-    "node": "14.x"
+    "node": "18.x"
   },
   "scripts": {
     "start": "node server.js"
